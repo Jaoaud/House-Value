@@ -27,4 +27,4 @@ Includes
 
 * [The Dataset](King_County_House_prices_dataset.csv) 
 * [Column names and describtions](column_names.md)
-* [KC_House_Prediction.pdf](KC_House_Prediction.pdf)
+* [KC_House_Predictions.pdf](KC_House_Predictions.pdf)
